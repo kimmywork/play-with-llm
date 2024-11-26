@@ -33,6 +33,8 @@ Ref: https://www.promptingguide.ai/
 
 Consider that as fake, since usually you can let llm generate better prompt their selves.
 
+Also see my [prompt examples](./prompts-examples.md).
+
 ### SillyTavern Design Guide
 
 #### World Info
@@ -68,5 +70,5 @@ Ref: https://docs.sillytavern.app/usage/core-concepts/characterdesign/
 ### Chat & Story generating
 
 - Mistral-nemo:12b https://ollama.com/library/mistral-nemo
-- Lumimaid-v0.2-12B
-- Noromaid-13b-v0.3-T4
+- Lumimaid-v0.2-12B (NSFW)
+- <del>Noromaid-13b-v0.3-T4</del>
