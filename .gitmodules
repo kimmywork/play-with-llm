@@ -1,0 +1,3 @@
+[submodule "experiments/2025-01-24-coding-assistant"]
+	path = experiments/2025-01-24-coding-assistant
+	url = https://github.com/kimmywork/summerboot.git
